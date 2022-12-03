@@ -53,7 +53,7 @@ table {
 }
 
 .my-image {
-	box-shadow: 2px;
+	box-shadow: 0px 0px 2px 1p #000000;
 }
 
 body {
