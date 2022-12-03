@@ -52,6 +52,10 @@ table {
 	font-weight: bold;
 }
 
+.my-image {
+	box-shadow: 2px;
+}
+
 body {
 	font-family: Arial, Helvetica, sans-serif;
 }
