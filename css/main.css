@@ -49,15 +49,21 @@ table {
 
 .site-title {
 	font-size: 24px;
+	font-weight: bold;
 }
 
 body {
 	font-family: Arial, Helvetica, sans-serif;
 }
 
+ul {
+	color: greenyellow;
+}
+
 h2 {
 	font-size: 20px;
-	font-weight: bolder;
+	font-weight: bold;
+	color: green;
 }
 
 p {
@@ -67,4 +73,17 @@ p {
 b {
 	font-size: 18px;
 	font-style: italic;
+	color: green;
+}
+
+footer {
+	color: green;
+	font-size: 14px;
+}
+
+h1 {
+	font-size: 24px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: green;
 }
